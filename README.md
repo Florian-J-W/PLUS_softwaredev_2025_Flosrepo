@@ -26,6 +26,7 @@ conda env create -f software_dev_v2.yml
 conda activate software_dev_v1
 <img width="231" alt="image" src="https://github.com/user-attachments/assets/ce279fb4-dbb8-46fe-aa40-96f033baf489" />
 conda deactivate
+#### Second env
 conda activate software_dev_v2
 <img width="236" alt="image" src="https://github.com/user-attachments/assets/af3051ab-173d-45df-84e6-6184cc45071d" />
 conda deactivate
