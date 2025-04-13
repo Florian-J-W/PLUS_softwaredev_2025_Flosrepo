@@ -1,5 +1,7 @@
 # PLUS_softwaredev_2025_Flosrepo
+
 ## Assignment #2 create conda env
+
 
 ### First i forked Hannas Repository via Github GUI
 
@@ -7,7 +9,7 @@
 git clone https://github.com/Florian-J-W/geo-software-dev_hanna.git
 
 ### I navigated into the folder in which i can find the .yml files
-cd cd geo-software-dev_hanna/A2
+cd geo-software-dev_hanna/A2
 
 ### I created the first environment
 conda env create -f software_dev_v1.yml
