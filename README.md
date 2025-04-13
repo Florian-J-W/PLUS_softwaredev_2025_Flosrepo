@@ -23,9 +23,12 @@ conda env create -f software_dev_v2.yml
 <img width="381" alt="image" src="https://github.com/user-attachments/assets/51ca6e2d-8b9b-4513-9c64-962b5da6e352" />
 
 ### I activated and deactivated the environments
+conda activate software_dev_v1
 <img width="231" alt="image" src="https://github.com/user-attachments/assets/ce279fb4-dbb8-46fe-aa40-96f033baf489" />
+conda deactivate
+conda activate software_dev_v2
 <img width="236" alt="image" src="https://github.com/user-attachments/assets/af3051ab-173d-45df-84e6-6184cc45071d" />
-
+conda deactivate
 ### Both environments are visible in my Anaconda Naviagtor as well
 <img width="265" alt="image" src="https://github.com/user-attachments/assets/e7fa0b3f-66c0-4a3f-8ca5-88ae03e1bb8f" />
 
