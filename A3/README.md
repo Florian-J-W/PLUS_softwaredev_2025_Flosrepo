@@ -5,7 +5,7 @@
 Create an environment based on the yml file profided in this folder
 conda env create --file envname.yml
 If the .yml is in the directory you are in (which it should be) and is called
-environment.yml (which it is not), you can simplify the command:
+environment.yml, you can simplify the command:
 conda env create
 
 ## Furthermore you need a sentinel Image ##
