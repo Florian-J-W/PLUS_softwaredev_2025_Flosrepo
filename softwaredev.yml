@@ -1,4 +1,4 @@
-name: softwaredev
+name: softwaredev2
 channels:
   - conda-forge
   - defaults
